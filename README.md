@@ -20,6 +20,7 @@ Specify input by flags:
 - -f file_path.txt
 
 Specify output by:
+
 - -o file_path.txt
 
 ## Test
@@ -28,4 +29,6 @@ Specify output by:
 go test
 ```
 
+## GitHub Actions
 
+[Every commit and pull request is checked using GitHub Actions](https://github.com/AidXylelele/go-lab-2/actions)
