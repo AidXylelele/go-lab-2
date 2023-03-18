@@ -7,7 +7,7 @@ import (
 
 func PrefixToInfix(input string) (string, error) {
 	var stack []string
-	const operators = "+-*/^"
+	const operators = "+-*/"
 	var literal = ""
 	var e1 = ""
 	var e2 = ""
