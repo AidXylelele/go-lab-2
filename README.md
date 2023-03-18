@@ -1,4 +1,31 @@
-Шаблон для 2-гої роботи з архітектури ПЗ
----
+# Continuous integration and testing automation
 
-Використайте кнопку **"Use this template"**, щоб створити власний репозиторій.
+This is lab 2 for software architecture subject made by pogromisty
+
+## Download
+
+```bash
+git clone https://github.com/MrPaschenko/ci-tests
+```
+
+## Run
+
+```bash
+go run cmd/example/main.go
+```
+
+Specify input by flags:
+
+- -e "expression"
+- -f file_path.txt
+
+Specify output by:
+- -o file_path.txt
+
+## Test
+
+```bash
+go test
+```
+
+
