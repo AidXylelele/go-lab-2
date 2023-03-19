@@ -5,7 +5,7 @@ This is lab 2 for software architecture subject made by pogromisty
 ## Download
 
 ```bash
-git clone https://github.com/MrPaschenko/ci-tests
+git clone https://github.com/AidXylelele/go-lab-2/
 ```
 
 ## Run
